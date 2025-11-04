@@ -8,6 +8,10 @@ A revival of the original Hunted plugin from TF2, revised and updated for PF2! T
 
 ## Official Maps (WIP)
 
+<p align="center">
+	<img src="maps.png" alt="Hunted II, Downtown, Hydro">
+</p>
+
 These maps are currently work-in-progress as they are assessed alongside the gamemode itself.
 
 - **Hunted II** - A revival of Valve's alpine-themed Hunted remake, adapted for this very gamemode! BLU must protect the Civilian as he makes his way through a logging camp, while RED must stop him before he reaches the inconspicuous mining elevator. A fairly straightforward take on the original Hunted, but with some much-needed modern niceties. - <a href="https://drive.google.com/drive/folders/1g_cAazPa-CxsgWzu2unf5TVeeiF_2J41?usp=drive_link">Google Drive Link</a>
