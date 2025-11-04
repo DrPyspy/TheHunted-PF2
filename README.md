@@ -14,6 +14,8 @@ These maps are currently work-in-progress as they are assessed alongside the gam
 - **Downtown** - A remake of the map Downtown, released by David Norton for Team Fortress Classic in 1999. The Civilian must sneak through various buildings and back-alleys to his escape helicopter at the end! It's relatively short, but with multiple routes and different connectors, you'll rarely take the same path each round. - <a href="https://drive.google.com/drive/folders/1KC0ryunJ3tr75facDUSixlhqUv0pFg7D?usp=drive_link">Google Drive Link</a>
 - **Hydro** - A familiar facility, but with a twist! An truck is ready to take the Civilian to a safe location, but RED has caught wind of the extraction. With no other option, BLU must guide the Civilian from their underground base to Alpha Electric before RED can lay a hand on him. There's three main routes BLU can push through, leading to a wide final area and a tense escape zone. Don't worry, Hydro fans; we only blocked off 75% of the map! - <a href="https://drive.google.com/drive/folders/1AxypEZOQ9ZIkN6biNca0ZLF8l7VptKXU?usp=drive_link">Google Drive Link</a>
 
+There's some other maps too, but I'm waiting to get the authors' permissions to put 'em here.
+
 ## Mapping Info
 
 Under the hood, maps are just Attack/Defend maps with a singular point. The plugin handles most of the logic, which means all the mapper has to do is make an A/D map. However, there are many important details to take into account:
