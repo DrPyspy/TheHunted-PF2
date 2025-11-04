@@ -1,5 +1,7 @@
 /*
-	[Py] various admin/operator commands
+================================================================================
+	various admin/operator commands
+================================================================================
 */
 
 public RegisterAdminCmds()

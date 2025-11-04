@@ -143,7 +143,7 @@ float huntedAlertDelay = 0.0;
 		cvar_classLimits = CreateConVar("sm_hunted_rostertype", "default", "Determines the class restrictions for the mode.", FCVAR_NONE);
 
 		LoadTranslations("common.phrases");
-		LoadTranslations("hunted.phrases");
+		//LoadTranslations("hunted.phrases");
 		
 		HookConVarChange(cvar_forceHunted, CheckHuntedEnabled);
 		HookConVarChange(cvar_classLimits, CheckClassLimits);
