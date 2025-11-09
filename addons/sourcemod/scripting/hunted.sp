@@ -1075,11 +1075,11 @@ public OnClientPutInServer(iClient)
 				team = GetClientTeam(Assassins[rand]);
 				if (team == 2 && IsClientConnected(Assassins[rand]) && IsClientInGame(Assassins[rand]) && IsClientOnTeam(Assassins[rand]))
 				{
-					TF2_ChangeClientTeam(Assassins[rand], TFTeam_Red);
+					TF2_ChangeClientTeam(Assassins[rand], TFTeam_Blue);
 					TF2_RespawnPlayer(Assassins[rand]);
 					char name[64];
 					GetClientName(Assassins[rand], name, sizeof(name));
-					PrintToChatAll("%s has been moved to RED to balance the teams.", name);
+					PrintToChatAll("%s has been moved to BLU to balance the teams.", name);
 				}
 			}
 		}
